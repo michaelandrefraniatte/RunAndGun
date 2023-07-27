@@ -1,0 +1,11 @@
+C:\Users\mic\Documents\GitHub\RunAndGun\Src\Gun\Gun\bin\Debug\Gun.exe.config
+C:\Users\mic\Documents\GitHub\RunAndGun\Src\Gun\Gun\bin\Debug\Gun.exe
+C:\Users\mic\Documents\GitHub\RunAndGun\Src\Gun\Gun\bin\Debug\Gun.pdb
+C:\Users\mic\Documents\GitHub\RunAndGun\Src\Gun\Gun\obj\Debug\Gun.csproj.AssemblyReference.cache
+C:\Users\mic\Documents\GitHub\RunAndGun\Src\Gun\Gun\obj\Debug\Gun.csproj.SuggestedBindingRedirects.cache
+C:\Users\mic\Documents\GitHub\RunAndGun\Src\Gun\Gun\obj\Debug\Gun.Form1.resources
+C:\Users\mic\Documents\GitHub\RunAndGun\Src\Gun\Gun\obj\Debug\Gun.Properties.Resources.resources
+C:\Users\mic\Documents\GitHub\RunAndGun\Src\Gun\Gun\obj\Debug\Gun.csproj.GenerateResource.cache
+C:\Users\mic\Documents\GitHub\RunAndGun\Src\Gun\Gun\obj\Debug\Gun.csproj.CoreCompileInputs.cache
+C:\Users\mic\Documents\GitHub\RunAndGun\Src\Gun\Gun\obj\Debug\Gun.exe
+C:\Users\mic\Documents\GitHub\RunAndGun\Src\Gun\Gun\obj\Debug\Gun.pdb

@@ -1,0 +1,16 @@
+C:\Users\mic\Documents\GitHub\RunAndGun\Src\Run\Run\bin\Release\Run.exe.config
+C:\Users\mic\Documents\GitHub\RunAndGun\Src\Run\Run\bin\Release\Run.exe
+C:\Users\mic\Documents\GitHub\RunAndGun\Src\Run\Run\bin\Release\Run.pdb
+C:\Users\mic\Documents\GitHub\RunAndGun\Src\Run\Run\obj\Release\Run.csproj.AssemblyReference.cache
+C:\Users\mic\Documents\GitHub\RunAndGun\Src\Run\Run\obj\Release\Run.csproj.SuggestedBindingRedirects.cache
+C:\Users\mic\Documents\GitHub\RunAndGun\Src\Run\Run\obj\Release\Run.csproj.CoreCompileInputs.cache
+C:\Users\mic\Documents\GitHub\RunAndGun\Src\Run\Run\obj\Release\Run.exe
+C:\Users\mic\Documents\GitHub\RunAndGun\Src\Run\Run\obj\Release\Run.pdb
+C:\Users\micha\Documents\Work\Gaming-Controllers-Tools\Src\RunAndGun\Src\Run\Run\bin\Release\Run.exe.config
+C:\Users\micha\Documents\Work\Gaming-Controllers-Tools\Src\RunAndGun\Src\Run\Run\bin\Release\Run.exe
+C:\Users\micha\Documents\Work\Gaming-Controllers-Tools\Src\RunAndGun\Src\Run\Run\bin\Release\Run.pdb
+C:\Users\micha\Documents\Work\Gaming-Controllers-Tools\Src\RunAndGun\Src\Run\Run\obj\Release\Run.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\Work\Gaming-Controllers-Tools\Src\RunAndGun\Src\Run\Run\obj\Release\Run.csproj.SuggestedBindingRedirects.cache
+C:\Users\micha\Documents\Work\Gaming-Controllers-Tools\Src\RunAndGun\Src\Run\Run\obj\Release\Run.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\Work\Gaming-Controllers-Tools\Src\RunAndGun\Src\Run\Run\obj\Release\Run.exe
+C:\Users\micha\Documents\Work\Gaming-Controllers-Tools\Src\RunAndGun\Src\Run\Run\obj\Release\Run.pdb
