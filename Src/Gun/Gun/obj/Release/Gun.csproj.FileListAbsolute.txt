@@ -20,3 +20,13 @@ C:\Users\micha\Documents\Work\Gaming-Controllers-Tools\Src\RunAndGun\Src\Gun\Gun
 C:\Users\micha\Documents\Work\Gaming-Controllers-Tools\Src\RunAndGun\Src\Gun\Gun\obj\Release\Gun.csproj.CoreCompileInputs.cache
 C:\Users\micha\Documents\Work\Gaming-Controllers-Tools\Src\RunAndGun\Src\Gun\Gun\obj\Release\Gun.exe
 C:\Users\micha\Documents\Work\Gaming-Controllers-Tools\Src\RunAndGun\Src\Gun\Gun\obj\Release\Gun.pdb
+C:\Users\micha\Documents\github\RunAndGunOfficial\Src\Gun\Gun\bin\Release\Gun.exe.config
+C:\Users\micha\Documents\github\RunAndGunOfficial\Src\Gun\Gun\bin\Release\Gun.exe
+C:\Users\micha\Documents\github\RunAndGunOfficial\Src\Gun\Gun\bin\Release\Gun.pdb
+C:\Users\micha\Documents\github\RunAndGunOfficial\Src\Gun\Gun\obj\Release\Gun.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\RunAndGunOfficial\Src\Gun\Gun\obj\Release\Gun.Form1.resources
+C:\Users\micha\Documents\github\RunAndGunOfficial\Src\Gun\Gun\obj\Release\Gun.Properties.Resources.resources
+C:\Users\micha\Documents\github\RunAndGunOfficial\Src\Gun\Gun\obj\Release\Gun.csproj.GenerateResource.cache
+C:\Users\micha\Documents\github\RunAndGunOfficial\Src\Gun\Gun\obj\Release\Gun.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\RunAndGunOfficial\Src\Gun\Gun\obj\Release\Gun.exe
+C:\Users\micha\Documents\github\RunAndGunOfficial\Src\Gun\Gun\obj\Release\Gun.pdb
